@@ -1,4 +1,3 @@
-ines (22 sloc)  395 Bytes
 spring:
   jpa:
     show-sql:
