@@ -20,7 +20,6 @@ logging:
 redis:
   server: 
     redis
-redis:
   port: 
     6379
 signing:
