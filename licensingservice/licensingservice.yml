@@ -19,7 +19,7 @@ logging:
           DEBUG
 redis:
   server: 
-    redis
+    localhost
   port: 
     6379
 signing:
